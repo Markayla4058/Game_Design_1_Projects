@@ -75,3 +75,4 @@ DerivedDataCache/*
 *.ucas
 *.utoc
 *.zip
+Builds/Dec8/Windows/Manifest_UFSFiles_Win64.txt
