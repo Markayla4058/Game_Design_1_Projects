@@ -76,3 +76,12 @@ DerivedDataCache/*
 *.utoc
 *.zip
 Builds/Dec8/Windows/Manifest_UFSFiles_Win64.txt
+Builds/Dec8/Windows/Zip Files/Manifest_UFSFiles_Win64.7z
+Builds/Dec8/Windows/Game1Start/Content/Paks/Game1Start-Windows.pak
+Builds/Dec8/Windows/Zip Files/Game1Start.tar
+Builds/Dec8/Windows/Game1Start/Content/Paks/Game1Start-Windows.pak
+Builds/Dec8/Windows/Zip Files/Game1Start/Content/Paks/Game1Start-Windows.pak
+Builds/Dec8/Windows/Game1Start/Content/Paks/Game1Start-Windows.pak
+Builds/Dec8/Windows/Game1Start/Content/Paks/Game1Start-Windows.pak
+Builds/Dec8/Windows/Game1Start/Content/Paks/Game1Start-Windows.pak
+/Builds/Dec8/Windows/Game1Start/Content/Paks
